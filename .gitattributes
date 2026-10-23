@@ -1,0 +1,3 @@
+# Preserve the exact already-published static asset bytes.
+* -text
+*.gz binary
