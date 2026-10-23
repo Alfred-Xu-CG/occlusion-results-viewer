@@ -22,6 +22,6 @@ Anonymous labels do not guarantee irreversible anonymization of dental anatomy.
 Do not use the viewer for identity inference or clinical decisions. The robots
 and noindex directives request non-indexing; they do not restrict public access.
 
-The `.nojekyll` file enables unchanged static-file publishing from the `main`
+The `.nojekyll` file enables unchanged static-file publishing from the `master`
 branch root. The `_headers` file is retained for byte correspondence with the
 original distribution; GitHub Pages does not use it as a header configuration.
